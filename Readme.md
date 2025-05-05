@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="resources/Obsidian-tagline.png" width="100%" />
+  <img src="public-resources/Obsidian-tagline-public.png" width="100%" />
 </p>
