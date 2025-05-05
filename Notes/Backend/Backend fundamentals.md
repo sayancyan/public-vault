@@ -35,13 +35,13 @@
 4. **Server sends a response** back to the client.
 5. **Client receives and displays the response** (e.g., rendering a webpage).
 
-![[Mechanism.png]]
+![[_Public/Notes/Backend/resources/Mechanism.png]]
 
 ---
 
 ## Types of Client-Server Architecture %% fold %%
 
-![[Client Server Models.png]]
+![[_Public/Notes/Backend/resources/Client Server Models.png]]
 
 ### **a) Two-Tier Architecture**
 
